@@ -1,0 +1,2 @@
+Los procesos tecnológicos de Intel se refieren a la tecnología utilizada para fabricar sus microprocesadores y otros componentes. Estos procesos se miden en nanómetros (nm) y se refieren al tamaño de las características de los transistores en el chip. 1. **Tecnología de 10 nm**: Introducida con la serie de procesadores Intel Core de 10ª generación, ofrece una mayor eficiencia energética y mejor rendimiento en comparación con tecnologías anteriores. 2.
+![[93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg]]

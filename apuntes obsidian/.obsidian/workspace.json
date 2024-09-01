@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "45b55273796a2896",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3e8f376dc8424e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd172b890fdfb2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telecomunicaciones/semana 1/3 CONCEPTOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc675962c5599739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2 COMPONENTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "751b59cab10257c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telecomunicaciones/semana 1/3 ONDAS DE RADIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8df991428e0d6c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2 COMPONENTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f738181f193922b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a7034e740db43a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1a40286f7970f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telecomunicaciones/semana 1/1 TEMARIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637696f172f96e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79109d14d349329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c95361241589f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ea42083508a8b38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0233b98884107eff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abf1ecc410982a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "425f97a1f988371b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5caa1544e4f49b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4ca31c98d96f0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41c21a601d43b4c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb9d26a0cf88f4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquitectura de computadoras/semana1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "43c95361241589f5",
+  "lastOpenFiles": [
+    "Arquitectura de computadoras/semana1/4 modelo de arquitectura de computo.md",
+    "Arquitectura de computadoras/semana1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
+    "telecomunicaciones/semana 1/93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
+    "Arquitectura de computadoras/semana1/3 Procesadores.md",
+    "3.md",
+    "telecomunicaciones/semana 1/3 CONCEPTOS.md",
+    "telecomunicaciones/semana 1/3 ONDAS DE RADIO.md",
+    "Arquitectura de computadoras/semana1/2 COMPONENTES.md",
+    "Arquitectura de computadoras/semana1/1 TEMARIO.md",
+    "telecomunicaciones/semana 1/WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
+    "telecomunicaciones/semana 1/2 EJEMPLO DE COMUNICACIÓN.md",
+    "telecomunicaciones/semana 1/1 TEMARIO.md",
+    "telecomunicaciones/semana 2/dia 2.md",
+    "Arquitectura de computadoras/semana2",
+    "Arquitectura de computadoras/Untitled.md",
+    "Arquitectura de computadoras/semana1",
+    "telecomunicaciones/semana 2",
+    "dia1.md",
+    "telecomunicaciones/semana 1",
+    "semana 1",
+    "Arquitectura de computadoras",
+    "Welcome.md",
+    "semana 1.md",
+    "telecomunicaciones"
+  ]
+}
