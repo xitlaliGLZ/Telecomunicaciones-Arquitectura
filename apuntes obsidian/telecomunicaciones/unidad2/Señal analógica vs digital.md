@@ -32,12 +32,17 @@ Diferencias
 
 Se utilizan mas las digitales por que se corrigen mas fácil de corejir el ruido .
 
-|                     | Sistema dogital                                                       | Sistema analogico                                                             |
-| ------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Definicion          | Sistema de manipulacion de datos mediante digitos(numeros)            | Sistema de manipulacion de datos fisicos representados en valores continuos . |
-| Valores de la señal | Valores discretos(finitos)                                            | Valores continuos(Infinitos)                                                  |
-| Ventajas            | +Menor tamaño<br>+Eficiencia<br>+Presicion<br>+Diseño<br>+Estabilidad | +Instantaneidad<br>+Economia<br>+Fidelidad                                    |
-| Desventajas         | +Coversion<br>+Ancho de banda<br>+Alteracion                          | +Menor tolerancia al ruido                                                    |
-| Ejemplos            |                                                                       |                                                                               |
-
+|                     | Sistema dogital                                                                                                      | Sistema analogico                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Definicion          | Sistema de manipulacion de datos mediante digitos(numeros)                                                           | Sistema de manipulacion de datos fisicos representados en valores continuos .                            |
+| Valores de la señal | Valores discretos(finitos)                                                                                           | Valores continuos(Infinitos)                                                                             |
+| Ventajas            | +Menor tamaño<br>+Eficiencia<br>+Presicion<br>+Diseño<br>+Estabilidad                                                | +Instantaneidad<br>+Economia<br>+Fidelidad                                                               |
+| Desventajas         | +Coversion<br>+Ancho de banda<br>+Alteracion                                                                         | +Menor tolerancia al ruido                                                                               |
+| Ejemplos            |                                                                                                                      |                                                                                                          |
+|                     | SISTEMA DIGITAL                                                                                                      | SISTEMA ANALOGICA                                                                                        |
+| Definicion          | Sistemas de manipulación de datos mediante digitos (Números)                                                         | Sistemas de manipulación de datos físicos mediante valores continuos.                                    |
+| Valores de la señal | Valores discretos (Finitos)                                                                                          | Valores continuos (Infinitos)                                                                            |
+| Ventajas            | -Menor Tamaño<br>-Eficiente<br>-Precisión<br>-Diseño<br>-Estabilidad                                                 | -Instantaneidad<br>-Economía <br>-Fideilidad                                                             |
+| Desvenjatas         | -Conversión<br>-Ancho de banda<br>-Alteración                                                                        | -Menor Toleración al ruido<br>-Degradación de la señal<br>-Dificultades técnicas                         |
+| Ejemplos            | -Computadoras<br>-Teléfonos Móviles<br>-Sistemas de grabación de audio y video<br>-Instrumentos de precisión digital | -Sistemas de audio y video antiguos<br>-Fotografía analógica<br>-Instrumentos de precisión tradicionales |
 		
