@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "45b55273796a2896",
+    "id": "da95e12cc26cade4",
     "type": "split",
     "children": [
       {
-        "id": "d774a591e534ad9f",
+        "id": "3ccc29df9aac21cf",
         "type": "tabs",
         "children": [
           {
-            "id": "872274dbff3dea62",
+            "id": "a1af553238271b9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "637696f172f96e69",
+    "id": "ae3c6b40c6d22a22",
     "type": "split",
     "children": [
       {
-        "id": "d79109d14d349329",
+        "id": "0848069c8da26ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "43c95361241589f5",
+            "id": "84d57350cc716510",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "8ea42083508a8b38",
+            "id": "7fa77ca1d7cba5c4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "0233b98884107eff",
+            "id": "fd3e6faa57bbdffd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "abf1ecc410982a0a",
+    "id": "42526a5c2aba5755",
     "type": "split",
     "children": [
       {
-        "id": "425f97a1f988371b",
+        "id": "2f3ed89e863c43de",
         "type": "tabs",
         "children": [
           {
-            "id": "c5caa1544e4f49b1",
+            "id": "d488e9a19cd33f68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "c4ca31c98d96f0b9",
+            "id": "c35e78194e3395b5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "41c21a601d43b4c4",
+            "id": "6f1d8a1488957dc5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "bb9d26a0cf88f4ad",
+            "id": "b1cd5a4a4a7fe38d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "872274dbff3dea62",
-  "lastOpenFiles": [
-    "telecomunicaciones/unidad2/PAM.md",
-    "telecomunicaciones/unidad2/3 Metodos de modulacion.md",
-    "Pasted image 20240912073424.png",
-    "Pasted image 20240912073345.png",
-    "Pasted image 20240912073106.png",
-    "Pasted image 20240912073006.png",
-    "Pasted image 20240912072752.png",
-    "Pasted image 20240912072715.png",
-    "Pasted image 20240912072607.png",
-    "Pasted image 20240912072558.png",
-    "telecomunicaciones/unidad2/Señal analógica vs digital.md",
-    "Arquitectura de computadoras/unidad2.md",
-    "telecomunicaciones/unidad2",
-    "telecomunicaciones/Untitled.md",
-    "telecomunicaciones/unidad1/Untitled",
-    "telecomunicaciones/unidad1/3 CONCEPTOS.md",
-    "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md",
-    "Arquitectura de computadoras/unidad1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
-    "telecomunicaciones/unidad1/93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
-    "Arquitectura de computadoras/unidad1/3 Procesadores.md",
-    "3.md",
-    "telecomunicaciones/unidad1/3 ONDAS DE RADIO.md",
-    "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
-    "Arquitectura de computadoras/unidad1/1 TEMARIO.md",
-    "telecomunicaciones/unidad1/2 EJEMPLO DE COMUNICACIÓN.md",
-    "telecomunicaciones/unidad1/1 TEMARIO.md",
-    "telecomunicaciones/semana 2/dia 2.md",
-    "Arquitectura de computadoras/semana2",
-    "Arquitectura de computadoras/unidad1",
-    "telecomunicaciones/semana 2",
-    "dia1.md",
-    "telecomunicaciones/unidad1",
-    "semana 1",
-    "Arquitectura de computadoras",
-    "Welcome.md",
-    "semana 1.md",
-    "telecomunicaciones"
-  ]
+  "active": "a1af553238271b9f",
+  "lastOpenFiles": []
 }
