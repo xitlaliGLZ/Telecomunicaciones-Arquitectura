@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
+                "file": "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
+                "file": "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md",
+                "file": "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telecomunicaciones/unidad2/PAM.md"
+                "file": "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "872274dbff3dea62",
   "lastOpenFiles": [
+    "Arquitectura de computadoras/unidad1/3 Procesadores.md",
+    "Arquitectura de computadoras/unidad1/1 TEMARIO.md",
+    "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
+    "Arquitectura de computadoras/unidad2.md",
     "telecomunicaciones/unidad2/PAM.md",
     "telecomunicaciones/unidad2/3 Metodos de modulacion.md",
     "Pasted image 20240912073424.png",
@@ -159,7 +163,6 @@
     "Pasted image 20240912072607.png",
     "Pasted image 20240912072558.png",
     "telecomunicaciones/unidad2/Señal analógica vs digital.md",
-    "Arquitectura de computadoras/unidad2.md",
     "telecomunicaciones/unidad2",
     "telecomunicaciones/Untitled.md",
     "telecomunicaciones/unidad1/Untitled",
@@ -167,11 +170,8 @@
     "Arquitectura de computadoras/unidad1/4 modelo de arquitectura de computo.md",
     "Arquitectura de computadoras/unidad1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
     "telecomunicaciones/unidad1/93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
-    "Arquitectura de computadoras/unidad1/3 Procesadores.md",
     "3.md",
     "telecomunicaciones/unidad1/3 ONDAS DE RADIO.md",
-    "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
-    "Arquitectura de computadoras/unidad1/1 TEMARIO.md",
     "telecomunicaciones/unidad1/2 EJEMPLO DE COMUNICACIÓN.md",
     "telecomunicaciones/unidad1/1 TEMARIO.md",
     "telecomunicaciones/semana 2/dia 2.md",
