@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telecomunicaciones/UNIDAD3/temario.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecomunicaciones/UNIDAD3/temario.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecomunicaciones/UNIDAD3/temario.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telecomunicaciones/UNIDAD3/temario.md"
+                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3acdd73838e1a930",
+  "active": "43c95361241589f5",
   "lastOpenFiles": [
-    "telecomunicaciones/UNIDAD3/Fibra optica.md",
     "telecomunicaciones/UNIDAD3/temario.md",
+    "telecomunicaciones/UNIDAD3/Fibra optica.md",
     "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
     "telecomunicaciones/UNIDAD3/Untitled",
     "Arquitectura de computadoras/unidad2.md",
