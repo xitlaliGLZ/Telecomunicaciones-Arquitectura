@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "abf1ecc410982a0a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
+                "file": "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md"
+                "file": "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md"
               }
             }
           }
@@ -146,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43c95361241589f5",
+  "active": "3acdd73838e1a930",
   "lastOpenFiles": [
-    "telecomunicaciones/UNIDAD3/temario.md",
+    "Arquitectura de computadoras/UNIDAD 2/Actividad 2.2 Definición de procesadores.md",
+    "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md",
+    "telecomunicaciones/UNIDAD3/2.Apuntes de la lectura.md",
+    "Pasted image 20241010074945.png",
+    "Pasted image 20241010074533.png",
+    "Pasted image 20241010073522.png",
+    "Pasted image 20241010073434.png",
     "telecomunicaciones/UNIDAD3/Fibra optica.md",
-    "Arquitectura de computadoras/UNIDAD 2/Diferiencias entre x64 y x86.md",
+    "telecomunicaciones/UNIDAD3/temario.md",
     "telecomunicaciones/UNIDAD3/Untitled",
     "Arquitectura de computadoras/unidad2.md",
     "Arquitectura de computadoras/UNIDAD 2",
@@ -168,14 +174,10 @@
     "Pasted image 20240912073006.png",
     "Pasted image 20240912072752.png",
     "Pasted image 20240912072715.png",
-    "Pasted image 20240912072607.png",
-    "Pasted image 20240912072558.png",
     "telecomunicaciones/unidad2/Señal analógica vs digital.md",
     "telecomunicaciones/unidad2",
     "telecomunicaciones/unidad1/Untitled",
     "telecomunicaciones/unidad1/3 CONCEPTOS.md",
-    "Arquitectura de computadoras/unidad1/2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
-    "telecomunicaciones/unidad1/93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
     "3.md",
     "telecomunicaciones/unidad1/3 ONDAS DE RADIO.md",
     "telecomunicaciones/unidad1/2 EJEMPLO DE COMUNICACIÓN.md",
