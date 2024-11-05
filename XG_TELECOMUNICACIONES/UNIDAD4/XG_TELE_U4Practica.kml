@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>archivoAGS</name>
+	<gx:CascadingStyle kml:id="__managed_style_224A750A19342FE185F4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13D9D45777342FE185F4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A0F0B95EE342FE185F4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13D9D45777342FE185F4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_224A750A19342FE185F4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_21180B4721342FE027E1">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B06FEC3D1342FE027E1">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02FE9CC41F342FE027E1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B06FEC3D1342FE027E1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21180B4721342FE027E1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="024765DB66342FDFA66D">
+		<name>pabellon de arteaga</name>
+		<LookAt>
+			<longitude>-102.2806692536843</longitude>
+			<latitude>22.14904155725806</latitude>
+			<altitude>1914.814553706328</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>755.175972624711</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.2785763847776,22.14765717551016,1913.772779941217</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065707574D342FE185F3">
+		<name>Rincon de romos</name>
+		<LookAt>
+			<longitude>-102.2864054940821</longitude>
+			<latitude>22.22560942124611</latitude>
+			<altitude>1928.151318378439</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>777.5799500730501</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<Point>
+			<coordinates>-102.2830462965339,22.22456670025863,1927.187610157469</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="073764B458342FE2BCD9">
+		<name>cosio</name>
+		<LookAt>
+			<longitude>-102.2964898998831</longitude>
+			<latitude>22.36932159968265</latitude>
+			<altitude>1989.284311645175</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.1307011402824</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.2962833229586,22.36878891202784,1989.114200961809</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA7525E2F342FE38D6C">
+		<name>el llano</name>
+		<LookAt>
+			<longitude>-101.9698522001206</longitude>
+			<latitude>21.91784470015638</latitude>
+			<altitude>2017.655189625681</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>779.2170766262279</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-101.969195592765,21.91822266298587,2019.573884139215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B35556C0B342FE41883">
+		<name>Tepezala</name>
+		<LookAt>
+			<longitude>-102.1779189980469</longitude>
+			<latitude>22.22468299719392</latitude>
+			<altitude>2057.89229167478</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.1914264506049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.1780935663216,22.22465728812389,2057.984978649886</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09872B771A342FE4CCF1">
+		<name>asientos</name>
+		<LookAt>
+			<longitude>-102.0865348549402</longitude>
+			<latitude>22.24387068837534</latitude>
+			<altitude>2149.550905357509</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>777.013211413505</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.0865507446129,22.24380818308726,2149.592324078397</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C42C74A9342FE55B10">
+		<name>san francisco de los romos</name>
+		<LookAt>
+			<longitude>-102.2696052979137</longitude>
+			<latitude>22.06958190178622</latitude>
+			<altitude>1897.954292888533</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>777.1992348259665</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.2695417955008,22.06967385528316,1897.134416743254</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0142DBCB55342FE603C1">
+		<name>Calvillo</name>
+		<LookAt>
+			<longitude>-102.6791830000631</longitude>
+			<latitude>21.87847910005846</latitude>
+			<altitude>1693.718186560384</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>778.0485547769058</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.6794761705392,21.87864453854674,1694.464396611942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F0B9C4D1342FE68B15">
+		<name>San jose</name>
+		<LookAt>
+			<longitude>-102.5553761286121</longitude>
+			<latitude>22.16726373314579</latitude>
+			<altitude>2511.474390115311</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.5058074083208</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.5551697276161,22.16717918793347,2511.158648981648</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0264459F73342FE7489C">
+		<name>Aguascalientes</name>
+		<LookAt>
+			<longitude>-102.3076843000572</longitude>
+			<latitude>21.88407500011435</latitude>
+			<altitude>1859.010941707955</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>778.084711831907</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.3078986417418,21.88362195723234,1858.789029568171</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FEF2B72DD342FE7C1D1">
+		<name>Jesus maria</name>
+		<LookAt>
+			<longitude>-102.3510008000096</longitude>
+			<latitude>21.96827419990933</latitude>
+			<altitude>1892.682755266243</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>777.429202966814</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02FE9CC41F342FE027E1</styleUrl>
+		<Point>
+			<coordinates>-102.3512308968925,21.96792468121456,1892.673995286623</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="008765A0D6342FFF291D">
+		<name>Enlace Aguascalientes - jesus maria</name>
+		<LookAt>
+			<longitude>-102.4386437916796</longitude>
+			<latitude>22.08455543363795</latitude>
+			<altitude>2154.37781602873</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90417.00031218119</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3034887287327,21.90714231202353,0 -102.3571989506361,21.99485876702726,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="06AEEF3193342FFFED93">
+		<name>Enlace Aguascalientes - san francisco de los romos</name>
+		<LookAt>
+			<longitude>-102.4386437916796</longitude>
+			<latitude>22.08455543363795</latitude>
+			<altitude>2154.37781602873</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90417.00031218119</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.303495487415,21.91403012811861,0 -102.2654339748496,22.09605029078902,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0203CB7C92343000CC67">
+		<name>el llano</name>
+		<LookAt>
+			<longitude>-102.4386437916796</longitude>
+			<latitude>22.08455543363795</latitude>
+			<altitude>2154.37781602873</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90417.00031218119</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3034869862897,21.9054201408627,0 -101.9739371668712,21.94007313796126,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="000F59CF763430018781">
+		<name>Enlace Aguascalientes - Pabellón de Arteaga</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3075501942122,21.92833251007859,0 -102.2764245522078,22.18530524733043,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0541BCBFF934300291A4">
+		<name>Enlace Aguascalientes - asientos</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3060148934545,21.92833927876083,0 -102.0759084672625,22.28488939846391,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="033088DF53343002E046">
+		<name>Enlace Aguascalientes - tepezala</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.2952455752059,21.92118243737941,0 -102.1809409004749,22.27367519615381,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="056174856A3430034EE1">
+		<name>Enlace Aguascalientes - rincon de romos</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3044846514669,21.92263227801561,0 -102.2841731956004,22.2567042262886,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="022A0860C0343003BCD0">
+		<name>Enlace Aguascalientes - cosio</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.307555432206,21.91832584317214,0 -102.2901469025506,22.40653931793356,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0CF583663C3430040C6A">
+		<name>Enlace Aguascalientes - san jose de gracia</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3014086829574,21.91547811395138,0 -102.5382548645176,22.20557378704081,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0AC3E754213430045D0D">
+		<name>Enlace Aguascalientes - calvillo</name>
+		<LookAt>
+			<longitude>-102.4599279893255</longitude>
+			<latitude>22.25180481245793</latitude>
+			<altitude>2337.688405286725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150417.5734325498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0F0B95EE342FE185F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.3014024102806,21.92691392091368,0 -102.6786417138574,21.92373605676304,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
