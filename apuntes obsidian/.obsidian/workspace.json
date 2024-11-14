@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
+                "file": "telecomunicaciones/UNIDAD4/antena contestar preguntas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 COMPONENTES"
+              "title": "antena contestar preguntas"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
+                "file": "telecomunicaciones/UNIDAD4/antena contestar preguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 COMPONENTES"
+              "title": "Backlinks for antena contestar preguntas"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
+                "file": "telecomunicaciones/UNIDAD4/antena contestar preguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 COMPONENTES"
+              "title": "Outgoing links from antena contestar preguntas"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de computadoras/unidad1/2 COMPONENTES.md"
+                "file": "telecomunicaciones/UNIDAD4/antena contestar preguntas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 COMPONENTES"
+              "title": "Outline of antena contestar preguntas"
             }
           }
         ]
@@ -180,6 +180,13 @@
   "active": "f016ab5dd6aed2b7",
   "lastOpenFiles": [
     "telecomunicaciones/UNIDAD4/Distancia.md",
+    "telecomunicaciones/UNIDAD4/Antenas.md",
+    "Arquitectura de computadoras/UNIDAD3/Desarrolla una tabla comparativa entre amd64 y ARM.md",
+    "telecomunicaciones/UNIDAD4/antena contestar preguntas.md",
+    "telecomunicaciones/UNIDAD4/Desarrolla una tabla comparativa entre amd64 y ARM.md",
+    "Arquitectura de computadoras/UNIDAD3/Computadoras 07 noviembre 24.md",
+    "core7.jpg",
+    "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
     "Arquitectura de computadoras/UNIDAD3/Unidades de almacenamiento.md",
     "Pasted image 20241029082304.png",
     "Pasted image 20241029080507.png",
@@ -189,11 +196,9 @@
     "Pasted image 20241029075500.png",
     "Arquitectura de computadoras/UNIDAD3/Diferiencias entre GPU y CPU.md",
     "Pasted image 20241028083802.png",
-    "telecomunicaciones/UNIDAD4/Antenas.md",
     "Arquitectura de computadoras/UNIDAD3",
     "Pasted image 20241028081828.png",
     "Pasted image 20241028081758.png",
-    "antenas.drawio.png",
     "telecomunicaciones/UNIDAD4",
     "Arquitectura de computadoras/UNIDAD 2/Actividad 2.2 Definición de procesadores.md",
     "Arquitectura de computadoras/UNIDAD 2/Actividad 2.1 Definición de procesadores x86 y x64.md",
@@ -208,7 +213,6 @@
     "telecomunicaciones/UNIDAD 3.md",
     "Arquitectura de computadoras/unidad1/3 Procesadores.md",
     "Arquitectura de computadoras/unidad1/1 TEMARIO.md",
-    "Arquitectura de computadoras/unidad1/2 COMPONENTES.md",
     "telecomunicaciones/unidad2/PAM.md",
     "telecomunicaciones/unidad2/3 Metodos de modulacion.md",
     "telecomunicaciones/unidad2/Señal analógica vs digital.md",
@@ -218,11 +222,8 @@
     "3.md",
     "telecomunicaciones/unidad1/3 ONDAS DE RADIO.md",
     "telecomunicaciones/unidad1/2 EJEMPLO DE COMUNICACIÓN.md",
-    "telecomunicaciones/unidad1/1 TEMARIO.md",
-    "telecomunicaciones/semana 2/dia 2.md",
     "Arquitectura de computadoras/semana2",
     "Arquitectura de computadoras/unidad1",
-    "telecomunicaciones/semana 2",
-    "dia1.md"
+    "telecomunicaciones/semana 2"
   ]
 }
